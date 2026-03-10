@@ -1,4 +1,2 @@
-## How to Run the Project
-1. Clone the repository
-2. Open it in IntelliJ IDEA
-3. Run the Spring Boot application
+## API Structure
+This project demonstrates a simple REST API built with Spring Boot.
