@@ -1,4 +1,2 @@
-## Future Improvements
-- Add database integration
-- Add authentication
-- Add frontend
+## Author
+Created by Khadija for a university assignment.
