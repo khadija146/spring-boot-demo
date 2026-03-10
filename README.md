@@ -1,2 +1,2 @@
-## API Structure
-This project demonstrates a simple REST API built with Spring Boot.
+## Learning Purpose
+This project was created to practice backend development using Spring Boot.
