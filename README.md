@@ -1,2 +1,4 @@
-## Learning Purpose
-This project was created to practice backend development using Spring Boot.
+## Future Improvements
+- Add database integration
+- Add authentication
+- Add frontend
