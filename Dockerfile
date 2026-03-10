@@ -6,4 +6,4 @@ COPY . .
 
 RUN ./mvnw clean package -DskipTests
 
-ENTRYPOINT ["sh", "-c", "java -jar target/*.jar"]
+ENTRYPOINT ["sh","-c","java -jar target/*.jar"]
