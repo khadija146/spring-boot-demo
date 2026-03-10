@@ -1,2 +1,2 @@
-## Author
-Created by Khadija for a university assignment.
+## License
+This project is for educational purposes only.
