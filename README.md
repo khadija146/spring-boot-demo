@@ -1,2 +1,2 @@
-## License
-This project is for educational purposes only.
+## Deployment
+The application can be deployed using Railway.
