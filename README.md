@@ -1,9 +1,8 @@
-## Database Structure
+## AI Usage
 
-Example database structure for the student system:
+AI tools such as ChatGPT were used to assist with:
+- understanding Git and GitHub workflow
+- generating documentation ideas
+- improving README structure
 
-Student
-- id
-- name
-- email
-- course
+All implementation and project setup were completed and verified by the student.
