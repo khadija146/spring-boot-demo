@@ -22,7 +22,7 @@ It demonstrates a basic REST API structure using Java, Spring Boot, and Maven.
 This project is deployed on Railway.
 
 Deployment link:
-PASTE_YOUR_RAILWAY_LINK_HERE
+(https://spring-boot-demo-production-8d2b.up.railway.app/students)
 
 ## Database Structure
 The sample database structure for this project is:
