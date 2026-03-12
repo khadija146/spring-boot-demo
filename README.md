@@ -32,7 +32,3 @@ Student
 - name
 - email
 - course
-
-## Video Demonstration
-Video link:
-PASTE_YOUR_VIDEO_LINK_HERE
